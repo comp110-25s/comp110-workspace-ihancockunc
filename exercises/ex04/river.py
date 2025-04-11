@@ -117,5 +117,3 @@ class River:
         self.repopulate_bears()
         # Visualize River
         self.view_river()
-            
->>>>>>> 4954fadf24db33d9b42242c26251f8b16233c559:exercises/ex04/river.py
